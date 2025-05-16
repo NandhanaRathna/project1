@@ -1,0 +1,164 @@
+*{
+    margin: 0px;
+}
+
+nav{
+    display: flex;
+    height: 70px;
+    background-color: white;
+}
+.h1{
+    font-size: 40px;
+    position: relative;
+    top: 5px;
+    left: 200px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: green;
+}
+.para{
+    position: relative;
+    left: 500px;
+    top: 20px;
+}
+.nav{
+    height: 70px;
+    width: 200px;
+    background-color: rgb(95, 202, 56);
+    position: relative;
+    text-align: center;
+    left: 530px;
+    color: white;
+}
+.pn{
+    position: relative;
+    top: 15px;
+}
+.img{
+    height: 20px;
+    position: relative;
+    left: 10px;
+    top: 5px;
+}
+.main{
+    background-image: url(https://www.wallpaperbetter.com/wallpaper/733/725/118/sea-beach-boat-sunset-water-reflection-1080P-wallpaper.jpg);
+    height: 764px;
+   background-size: cover;
+}
+.con{
+    /* position: relative; */
+    top: 200px;
+    color: white;
+    /* left: 320px; */
+    position: relative;
+    margin-left: 200px;
+}
+.or{
+    background-color: coral;
+    color: white;
+    padding: 10px;
+    border: none;
+}
+.in{
+    font-family:Arial, Helvetica, sans-serif, Geneva, Tahoma, sans-serif, Tahoma, Geneva, Verdana, sans-serif Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+}
+.h2{
+   color: rgb(11, 11, 104);
+   font-size: 40px;
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 210px;
+    margin-top: 5px;
+}
+.gry{
+    height: 300px;
+    width: 100%;
+    background-color: rgba(128, 128, 128, 0.228);
+}
+.orn{
+    height: 150px;
+    width: 300px;
+    background-color: rgb(193, 99, 22);
+    margin-left: 250px;
+    position: relative;
+    top: 80px;
+}
+.bluu{
+    height: 150px;
+    width: 300px;
+    background-color: rgb(29, 104, 217);
+    margin-left: 650px;
+    position: relative;
+    bottom: 70px;
+}
+.gree{
+    height: 150px ;
+    width: 300px;
+    background-color: rgb(144, 205, 84);
+    margin-left:70%;
+    position: relative;
+    bottom: 220px;
+}
+.cons{
+    color: white;
+    position: relative;
+    top: 50px;
+    font-size:35px;
+    left: 50px;
+}
+.tra{
+    position: relative;
+    top: 50px;
+    font-size: 35px;
+    color: aliceblue;
+    left: 50px;
+}
+.ho{
+    position: relative;
+    top: 50px;
+    font-size: 35px ;
+    color: aliceblue;
+    left: 70px;
+}
+.wht{
+    margin-left: 650px;
+    margin-top: 50px;
+  color: rgb(19, 19, 94);  
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.p{
+    margin-left: 520px;
+}
+.row img{
+     height: 200px;
+     width: 300px;
+    
+}
+.row{
+    display: flex;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+.col{
+    padding: 15px;
+}
+.ii{
+    position: relative;
+    left: 50px;
+}
+.ik{
+    position: relative;
+    top: 10px;
+}
+footer{
+    background-color: rgba(11, 11, 51, 0.95);
+    height: 100px;
+    width: 100%;
+    margin-top: 30px;
+    color: aliceblue;
+
+}
+footer>p{
+    margin-left: 550px;
+    position: relative;
+    top: 50px;
+}
